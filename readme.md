@@ -1,63 +1,130 @@
-## Step 16: Dynamic Programming (DP)
+<div align="center">
+  <h1>🚀 Striver A2Z DSA Sheet Solutions</h1>
+  <p><i>My personal tracker and highly optimized C++ solutions for the Striver A2Z DSA Sheet.</i></p>
+  
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-FFB000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge">
+</div>
 
-### 16.1: Introduction to DP & 1D DP
-* [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-* [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-* [Frog Jump](https://atcoder.jp/contests/dp/tasks/dp_a) (AtCoder DP-A)
-* [Frog Jump with K Distance](https://atcoder.jp/contests/dp/tasks/dp_b) (AtCoder DP-B)
-* [House Robber](https://leetcode.com/problems/house-robber/)
-* [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+---
 
-### 16.2: 2D/3D DP and DP on Grids
-* [Ninja's Training](https://atcoder.jp/contests/dp/tasks/dp_c) (AtCoder DP-C)
-* [Unique Paths](https://leetcode.com/problems/unique-paths/)
-* [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
-* [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
-* [Triangle](https://leetcode.com/problems/triangle/)
-* [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
-* [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+## 📌 About
+This repository holds my journey through the [takeUforward A2Z DSA sheet]. My goal is to write clean, understandable, and strictly optimized code.
 
-### 16.3: DP on Subsequences
-* [Subset Sum Equal to Target](https://atcoder.jp/contests/dp/tasks/dp_d) (Variation)
-* [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
-* [Partition Array into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
-* [0/1 Knapsack](https://atcoder.jp/contests/dp/tasks/dp_d)
-* [Coin Change](https://leetcode.com/problems/coin-change/)
-* [Target Sum](https://leetcode.com/problems/target-sum/)
-* [Coin Change II](https://leetcode.com/problems/coin-change-2/)
-* [Unbounded Knapsack](https://codeforces.com/problemset/problem/10/D) (Variation)
+**Key Highlights:**
+* **Space & Time Optimization:** Focusing on reducing auxiliary space to `O(1)` and time complexity to its theoretical limits.
+* **Structured Hierarchy:** Code is organized strictly by problem topics and patterns for easy navigation.
 
-### 16.4: DP on Strings
-* [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-* [Longest Common Substring](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) (LC Variation)
-* [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
-* [Minimum Insertions to Make String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
-* [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
-* [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
-* [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
-* [Edit Distance](https://leetcode.com/problems/edit-distance/)
-* [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+---
 
-### 16.5: DP on Stocks
-* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-* [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-* [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
-* [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
-* [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-* [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+## 🗂️ Topic Tracker
+*Using checkboxes to track live progress of major topics.*
 
-### 16.6: DP on LIS (Longest Increasing Subsequence)
-* [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-* [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
-* [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
-* [Number of Longest Increasing Subsequences](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+<details>
+<summary><b>Step 3: Arrays</b></summary>
+<br>
 
-### 16.7: MCM / Partition DP
-* [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
-* [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
-* [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
-* [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
+- [ ] Easy Problems
+- [ ] Medium Problems
+- [ ] Hard Problems
+</details>
 
-### 16.8: DP on Squares
-* [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
-* [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+<details>
+<summary><b>Step 4: Binary Search</b></summary>
+<br>
+
+- [ ] BS on 1D Arrays
+- [ ] BS on Answers
+- [ ] BS on 2D Arrays
+</details>
+
+<details>
+<summary><b>Step 5 & 6: Strings & Linked Lists</b></summary>
+<br>
+
+- [ ] Basic & Medium String Problems
+- [ ] 1D & 2D Linked Lists (Basics)
+- [ ] Medium Problems of LL and DLL
+- [ ] Hard Problems of LL
+</details>
+
+<details>
+<summary><b>Step 7 & 8: Recursion & Bit Manipulation</b></summary>
+<br>
+
+- [ ] Get a Strong Hold (Basics)
+- [ ] Subsequences Pattern
+- [ ] Hard/Trying out all Combos
+- [ ] Learn Bit Manipulation Basics
+- [ ] Interview Problems (Bit Manipulation)
+</details>
+
+<details>
+<summary><b>Step 9 & 10: Stacks, Queues & Sliding Window</b></summary>
+<br>
+
+- [ ] Learning & Conversions (Stack/Queue)
+- [ ] Prefix, Infix, PostFix Conversions
+- [ ] Monotonic Stack/Queue Problems
+- [ ] Implementation Problems
+- [ ] Sliding Window & Two Pointer Medium/Hard
+</details>
+
+<details>
+<summary><b>Step 11 & 12: Heaps & Greedy</b></summary>
+<br>
+
+- [ ] Learning Heaps
+- [ ] Medium/Hard Heap Problems
+- [ ] Easy Greedy Problems
+- [ ] Medium/Hard Greedy Problems
+</details>
+
+<details>
+<summary><b>Step 13 & 14: Trees (BT & BST)</b></summary>
+<br>
+
+- [ ] Traversals
+- [ ] Medium/Hard Problems on BT
+- [ ] Concepts of BST
+- [ ] Practice Problems on BST
+</details>
+
+<details>
+<summary><b>Step 15: Graphs</b></summary>
+<br>
+
+- [ ] Learning Graphs (Basics)
+- [ ] Problems on BFS/DFS
+- [ ] Topo Sort and Problems
+- [ ] Shortest Path Algorithms
+- [ ] Minimum Spanning Tree & Disjoint Set
+</details>
+
+<details open>
+<summary><b>Step 16: Dynamic Programming</b></summary>
+<br>
+
+- [x] Introduction to DP & 1D DP
+- [ ] 2D/3D DP and DP on Grids
+- [ ] DP on Subsequences
+- [ ] DP on Strings
+- [ ] DP on Stocks
+- [ ] DP on LIS (Longest Increasing Subsequence)
+- [ ] MCM / Partition DP
+- [ ] DP on Squares
+</details>
+
+<details>
+<summary><b>Step 17 & 18: Tries & Advanced Strings</b></summary>
+<br>
+
+- [ ] Trie Concepts & Problems
+- [ ] String Matching Algorithms (KMP, Z-Algorithm)
+</details>
+
+---
+<div align="center">
+  <i>"Consistency is the architecture of success."</i>
+</div>
