@@ -1,0 +1,10 @@
+# Ignore C++ compiled executables
+*.exe
+*.out
+*.o
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore macOS system files (if you ever share this repo)
+.DS_Store
